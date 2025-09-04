@@ -165,5 +165,5 @@ Artificial Intelligence (AI)
 | LLMs          | ChatGPT, Document summarization, Copilot      |
 
 ---
-
+![AI Flowchart](images/1732792523963.jpeg)
 **If you want a visual diagram (boxes/arrows), try tools like draw.io or diagrams.net to map the above flow!**
